@@ -1,0 +1,22 @@
+.bg-liner{
+    background-image: linear-gradient(45deg, rgba(13, 240, 221, 0.7), rgb(198, 50, 235));
+}
+.txt-clr{
+    color: crimson;
+    text-shadow: 1px 0px 3px white;
+}
+.text-clr{
+    color: rgb(253, 62, 4);
+    text-shadow: 1px 0px 3px white;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.btn-buy{
+    background-image: linear-gradient(rgb(253, 62, 4), rgb(253, 158, 129));
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+}
