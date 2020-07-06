@@ -1,5 +1,9 @@
 .bg-liner{
     background-image: linear-gradient(45deg, rgba(13, 240, 221, 0.7), rgb(198, 50, 235));
+    border-radius: 15px;
+}
+.container{
+    margin-bottom: 50px;
 }
 .txt-clr{
     color: crimson;
@@ -19,4 +23,25 @@
     border-radius: 5px;
     padding: 5px 10px;
     cursor: pointer;
+}
+.cat-1{
+    background-image: linear-gradient(90deg, orange, yellow);
+    border-radius: 10px;
+    padding: 10px 30px;
+}
+.cat-2{
+    background-image: linear-gradient( rgb(255, 0, 149), rgb(252, 79, 180));
+    border-radius: 10px;
+    padding: 10px 30px;
+}
+.cat-3{
+    background-image: linear-gradient(90deg, rgb(0, 76, 255), rgb(84, 157, 253));
+    border-radius: 10px;
+    padding: 10px 30px;
+}
+.catagories h1{
+    color: white;
+}
+.catagories img{
+    width: 100px;
 }
